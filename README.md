@@ -1,6 +1,6 @@
-# 3D-Computer-Vision-Resources
+# Learn 3D-Computer-Vision
 
-This is a collection of tutorials, libraries and resources that I find useful for learning 3d Computer Vision.
+A collection of tutorials, libraries and resources that I find useful for learning 3d Computer Vision.
 
 ## Libraries and Packages
 - [Open3D](http://www.open3d.org/docs/release/getting_started.html)
