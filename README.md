@@ -7,3 +7,4 @@ This is a collection of tutorials, libraries and resources that I find useful fo
 
 ## Courses and Tutorials
 - [An Invitation to 3D Vision: A Tutorial for Everyone](https://github.com/sunglok/3dv_tutorial)
+- [Camera & 3D Geometry](https://www.youtube.com/playlist?list=PLFW2Za6wL5EUkrngX-5RZB6ToldUU_is1)
