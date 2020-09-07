@@ -8,7 +8,7 @@ This repository contains all tutorials, libraries and resources that I find usef
 ## Courses and Tutorials
 - [An Invitation to 3D Vision: A Tutorial for Everyone](https://github.com/sunglok/3dv_tutorial)
 - [Camera & 3D Geometry](https://www.youtube.com/playlist?list=PLFW2Za6wL5EUkrngX-5RZB6ToldUU_is1)
-- [Computer Vision: From 3D Reconstruction to Recognition](https://online.stanford.edu/courses/cs231a-computer-vision-3d-reconstruction-recognition)
+- [Computer Vision: From 3D Reconstruction to Recognition](https://online.stanford.edu/courses/cs231a-computer-vision-3d-reconstruction-recognition) by Standford
 
 ## School-based Curriculeums and Study guides
-- [Visual Computing Systems](http://graphics.stanford.edu/courses/cs348v-18-winter/readings.html)
+- [Visual Computing Systems](http://graphics.stanford.edu/courses/cs348v-18-winter/readings.html) by Standford
