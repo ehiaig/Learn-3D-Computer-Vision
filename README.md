@@ -14,4 +14,4 @@ This repository contains all tutorials, libraries and resources that I find usef
 - [Visual Computing Systems](http://graphics.stanford.edu/courses/cs348v-18-winter/readings.html) by Standford
 
 ## 3D Projects
-- [Standford 3D Projects] (https://web.stanford.edu/class/cs231a/projects2016.html)
+- [Standford 3D Projects](https://web.stanford.edu/class/cs231a/projects2016.html)
